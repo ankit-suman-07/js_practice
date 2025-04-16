@@ -1,1 +1,1 @@
-readme
+ - This repository consists of the practice JS solutions for the **Leetcode - 30 Days of JavaScript**
