@@ -30,3 +30,6 @@ var isEmpty = function(obj) {
     }
     return false;
 };
+
+console.log(isEmpty({})); // true
+console.log(isEmpty({x: 5, y: 42})); // false
